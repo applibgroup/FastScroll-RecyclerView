@@ -1,0 +1,47 @@
+{
+  "app": {
+    "bundleName": "com.jaredrummler.fastscrollrecyclerview.sample",
+    "vendor": "jaredrummler",
+    "version": {
+      "code": 1000000,
+      "name": "1.0.0"
+    }
+  },
+  "deviceConfig": {},
+  "module": {
+    "package": "com.jaredrummler.fastscrollrecyclerview.sample",
+    "name": ".MyApplication",
+    "mainAbility": "com.jaredrummler.fastscrollrecyclerview.sample.MainAbility",
+    "deviceType": [
+      "phone",
+      "tablet"
+    ],
+    "distro": {
+      "deliveryWithInstall": true,
+      "moduleName": "entry",
+      "moduleType": "entry",
+      "installationFree": false
+    },
+    "abilities": [
+      {
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ],
+        "orientation": "unspecified",
+        "name": "com.jaredrummler.fastscrollrecyclerview.sample.MainAbility",
+        "icon": "$media:icon",
+        "description": "$string:mainability_description",
+        "label": "$string:entry_MainAbility",
+        "type": "page",
+        "launchType": "standard"
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "app": {
+    "bundleName": "com.jaredrummler.fastscrollrecyclerview.sample",
+    "vendor": "jaredrummler",
+    "version": {
+      "code": 1000000,
+      "name": "1.0.0"
+    }
+  },
+  "deviceConfig": {
+  },
+  "module": {
+    "package": "com.jaredrummler.fastscrollrecyclerview",
+    "deviceType": [
+      "phone",
+      "tablet"
+    ],
+    "distro": {
+      "deliveryWithInstall": true,
+      "moduleName": "library",
+      "moduleType": "har"
+    }
+  }
+}
