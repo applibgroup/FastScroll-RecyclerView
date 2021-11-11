@@ -1,0 +1,12 @@
+{
+  "color": [
+    {
+      "name": "fastscroll_thumb_inactive_color",
+      "value": "#009688"
+    },
+    {
+      "name": "fastscroll_thumb_active_color",
+      "value": "#009688"
+    }
+  ]
+}

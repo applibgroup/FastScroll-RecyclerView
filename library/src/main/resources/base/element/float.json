@@ -1,0 +1,28 @@
+{
+  "float": [
+    {
+      "name": "fastscroll_popup_default_padding",
+      "value": "24vp"
+    },
+    {
+      "name": "fastscroll_popup_text_size",
+      "value": "48vp"
+    },
+    {
+      "name": "fastscroll_thumb_min_width",
+      "value": "0vp"
+    },
+    {
+      "name": "fastscroll_thumb_max_width",
+      "value": "9vp"
+    },
+    {
+      "name": "fastscroll_thumb_height",
+      "value": "72vp"
+    },
+    {
+      "name": "fastscroll_thumb_touch_inset",
+      "value": "-24vp"
+    }
+  ]
+}
